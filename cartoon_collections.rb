@@ -1,11 +1,11 @@
-def greet_characters(array)
+# def greet_characters(array)
   
-  # array = ["Dopey!", "Hoggle!", "Ludo!","Sir Didymus!"]
-  #   array.each do | array|
+#   # array = ["Dopey!", "Hoggle!", "Ludo!","Sir Didymus!"]
+#   #   array.each do | array|
       
-        print ("Hello " + array)
-      end
-end
+#         print ("Hello " + array)
+#       end
+# end
 
 
 def list_dwarves(array)
