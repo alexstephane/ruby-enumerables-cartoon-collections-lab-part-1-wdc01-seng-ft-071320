@@ -6,7 +6,7 @@ def greet_characters(array)
   array = ["Dopey!", "Hoggle!", "Ludo!","Sir Didymus!"]
     array.each do | array|
       
-        puts ("Hello " + array)
+        print ("Hello " + array)
       end
 end
 
