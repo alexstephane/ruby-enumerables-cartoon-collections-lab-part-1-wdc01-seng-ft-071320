@@ -8,7 +8,7 @@
 # end
 
 def greet_characters(array)
-  array.each do | element | #what does the | character | refer to?
+  array.each do | character | refer to?
     print ("Hello " + character)
   end
 end
