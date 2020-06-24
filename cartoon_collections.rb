@@ -1,11 +1,4 @@
-# def greet_characters(array)
-  
-#   # array = ["Dopey!", "Hoggle!", "Ludo!","Sir Didymus!"]
-#   #   array.each do | element|
-      
-#         print ("Hello " + element)
-#       end
-# end
+
 
 def greet_characters(array)
   array.each do | character | 
